@@ -12,3 +12,4 @@ A simple Python tool to check internet connectivity by sending ping requests.
 
 1. Make sure Python 3 is installed on your system.
 2. Run the script from the command line:
+3. type: sudo python3 ping_cheker.py {YourTarget.com/IP}
