@@ -1,4 +1,4 @@
-# Ping Checker
+# Ping Cheker
 
 A simple Python tool to check internet connectivity by sending ping requests.
 
